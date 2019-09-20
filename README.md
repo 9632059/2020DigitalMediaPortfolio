@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Digital Media Portfolio! :)
 
 You can use the [editor on GitHub](https://github.com/9632059/2020DigitalMediaPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
